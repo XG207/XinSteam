@@ -1,1 +1,5 @@
-
+{
+"version": "1.0.0.2" 
+"downloadurl":"https://你的网址/更新包.zip"
+"changelog"："修复了若干问题”
+}
