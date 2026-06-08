@@ -1,3 +1,9 @@
+在你运行之前请先安装[NET 8.0](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)
+
+[QQ群聊](https://qm.qq.com/q/g8VCJwYI2O)
+
+[UP主页](https://space.bilibili.com/3461572120808101?spm_id_from=333.1007.0.0)
+
 XinSteam-Fluent：一款简约克制的 Steam 游戏入库助手
 
 XinSteam-Fluent 是一款面向 Steam 玩家的桌面辅助工具，专注于解决游戏入库过程中的搜索不便、资源获取复杂、管理零散等问题。它采用 WinUI 3 原生框架，界面简洁流畅，所有交互都经过精心打磨，力求让每次操作都自然、高效。
